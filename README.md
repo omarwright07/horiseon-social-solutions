@@ -29,7 +29,7 @@ Are you ready to jump in? Here are this week's challenge requirements:
 ![Final verison mock up of Horiseon Social Solution Services' Website.](./assets/images/01-html-css-git-homework-demo.png)
 
 ## Deployed Application
-https://omarwright07.github.io/urban-octo-telegram/
+https://omarwright07.github.io/horiseon-social-solutions
 
 ## GitHub Location
-https://github.com/omarwright07/urban-octo-telegram
+https://github.com/omarwright07/horiseon-social-solutions
