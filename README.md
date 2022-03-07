@@ -24,3 +24,12 @@ Are you ready to jump in? Here are this week's challenge requirements:
 * THEN they fall in sequential order
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
+
+## Screenshoot
+![Final verison mock up of Horiseon Social Solution Services' Website.](./assets/images/01-html-css-git-homework-demo.png)
+
+## Deployed Application
+https://omarwright07.github.io/urban-octo-telegram/
+
+## GitHub Location
+https://github.com/omarwright07/urban-octo-telegram
